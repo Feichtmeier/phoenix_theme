@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/ubuntu-flutter-community/phoenix_theme/compare/v1.0.1...v1.0.2) (2024-08-31)
+
+
+### Bug Fixes
+
+* darker dark theme ([#4](https://github.com/ubuntu-flutter-community/phoenix_theme/issues/4)) ([a34d30b](https://github.com/ubuntu-flutter-community/phoenix_theme/commit/a34d30b3376cfdb161e2cbf40631941766136239))
+* different dark themes for mobile and desktop ([fe7b369](https://github.com/ubuntu-flutter-community/phoenix_theme/commit/fe7b369cdf03a15c735c866584a251da68f3a716))
+
 ## [1.0.1](https://github.com/ubuntu-flutter-community/phoenix_theme/compare/v1.0.0...v1.0.1) (2024-08-31)
 
 
