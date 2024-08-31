@@ -1,6 +1,6 @@
 name: phoenix_theme
 description: "A clean flutter theme for Material"
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
